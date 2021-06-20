@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8f8122f-4c44-4a5d-b4d6-16e974fb97a9" name="Default" comment="" />
+    <list default="true" id="f8f8122f-4c44-4a5d-b4d6-16e974fb97a9" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/com/sky/demo/SimpleServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/com/sky/demo/SimpleServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/com/sky/netty4InAction/EchoServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/com/sky/netty4InAction/EchoServer.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,7 +27,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/cn/com/sky/basics/HttpClient.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="28" column="11" lean-forward="true" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
+              <caret line="28" column="11" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -380,12 +384,12 @@
       <workItem from="1610459073305" duration="3472000" />
       <workItem from="1623132257034" duration="181000" />
       <workItem from="1623408160981" duration="9361000" />
-      <workItem from="1624199941513" duration="1481000" />
+      <workItem from="1624199941513" duration="2431000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29087000" />
+    <option name="totallyTimeSpent" value="30037000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="771" extended-state="0" />
@@ -862,7 +866,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/com/sky/basics/HttpClient.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="28" column="11" lean-forward="true" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
+          <caret line="28" column="11" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
         </state>
       </provider>
     </entry>
